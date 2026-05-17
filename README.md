@@ -1,7 +1,18 @@
 # 100-days-python
 
 ##Daily Python Problems solved as part of my 90 day learning journey.
-Week 1: BASIC INPUT/OUTPUT,ARITHMETIC,TYPE CONVERSION
 #How to Run
 '''bash
 python filename.py
+
+
+## 📅 Progress
+| Day | Topic | Problems Solved |
+|-----|-------|----------------|
+| Day 1 | Input/Output, Arithmetic | Q1–Q8 |
+| Day 2 | Tuples, Sets, Dictionaries | Q1–Q9 |
+
+## 🛠️ Tools
+- Python 3
+- VS Code
+- MacOS Terminal
