@@ -11,6 +11,7 @@ python filename.py
 |-----|-------|----------------|
 | Day 1 | Input/Output, Arithmetic | Q1–Q8 |
 | Day 2 | Tuples, Sets, Dictionaries | Q1–Q9 |
+| Day 3 | External Modules (Colorama,pyttsx3,os)| Q11-Q13 |
 
 ## 🛠️ Tools
 - Python 3
