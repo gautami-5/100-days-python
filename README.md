@@ -12,7 +12,7 @@ python filename.py
 | Day 1 | Input/Output, Arithmetic | Q1–Q8 |
 | Day 2 | Tuples, Sets, Dictionaries | Q1–Q9 |
 | Day 3 | External Modules (Colorama,pyttsx3,os)| Q11-Q13 |
-| Day 4 | Variable, Strings, Operators |
+| Day 4 | Variable, Strings, Operators | Q14-Q17 |
 
 ## 🛠️ Tools
 - Python 3
