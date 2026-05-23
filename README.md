@@ -15,6 +15,7 @@ python filename.py
 | Day 4 | Variable, Strings, Operators | Q14-Q17 |
 | Day 5 | List, Tuple practice | Q18-Q21 |
 | Day 6 | Dictionary Practice | Q22-Q24 |
+| Day 7 | Sets & Dictionary practice | Q25 - Q27 |
 
 ## 🛠️ Tools
 - Python 3
