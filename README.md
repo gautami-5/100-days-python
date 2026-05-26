@@ -14,6 +14,7 @@
 | Day 6 | Dictionary Practice | Q22-Q24 |
 | Day 7 | Sets & Dictionary practice | Q25 - Q28 |
 | Day 8 | Conditionals & in | Q29 - Q34 |
+| Day 9 | Loops | Q35-Q42 |
 
 ## 🛠️ Tools
 - Python 3
