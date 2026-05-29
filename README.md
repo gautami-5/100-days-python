@@ -16,6 +16,8 @@
 | Day 8 | Conditionals & in | Q29 - Q34 |
 | Day 9 | Loops | Q35-Q42 |
 | Day 10 | Functions, recursion | Q43 - Q49 |
+| Day 11 | File Handling: read,write | Q51 - Q52 |
+| Day 12 | File Handling: Replace | Q53 - Q54 |
 
 
 ## 🛠️ Tools
